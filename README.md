@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hi there, I'm Joshua Montano 👋 </h1>
 
-I am currently pursuing a degree in Computer Engineering at UCA El Salvador. While I have a strong passion for backend programming, I am currently working as a frontend developer, my goal is to become a FullStack developer.
+Computer Engineer at UCA El Salvador. I have a strong passion for backend programming, have done some work as a frontend developer. Currently interested and working on the cybersecurity area.
 
 ---
 
@@ -31,11 +31,6 @@ I am currently pursuing a degree in Computer Engineering at UCA El Salvador. Whi
 
 ![](https://github-readme-stats.vercel.app/api?username=joshua1535&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joshua1535&theme=dark&hide_border=false)<br/>
-
----
-
-## Languages Used:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua1535&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
